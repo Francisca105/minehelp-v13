@@ -1,0 +1,25 @@
+{
+  "name": "minehelp",
+  "version": "1.0.0",
+  "description": "Free bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "author": "Francisca105",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.0.0-dev.30a58dc.1627387368",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francisca105/minehelp-v13.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Francisca105/minehelp-v13/issues"
+  },
+  "homepage": "https://github.com/Francisca105/minehelp-v13#readme"
+}
